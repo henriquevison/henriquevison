@@ -1,9 +1,10 @@
 ## Oii! Eu sou Henrique Luvison 👋🌍
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-daniel-luvison-98a554287/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquevison/)
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquevison&show_icons=true&theme=tokyonight)
-
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquevison&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquevison&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 ## Tecnologias que estou explorando e aprendendo
 
 <div style="display: inline-block"><br/>
