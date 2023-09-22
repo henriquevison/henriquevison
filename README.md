@@ -5,6 +5,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquevison&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquevison&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
 ## Tecnologias que estou explorando e aprendendo
 
 <div style="display: inline-block"><br/>
